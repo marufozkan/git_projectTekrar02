@@ -7,6 +7,7 @@ public class BrancTekrar02 {
 		
 		
 System.out.println("saat 12:26 feature branc icin ugrasiyorum");
+System.out.println("12:46 feature ye bir degisiklik daha yaptim");
 
 
 
